@@ -1,3 +1,4 @@
+//@ts-ignore
 import Background from '../assets/library.jpeg'
 
 function home() {
